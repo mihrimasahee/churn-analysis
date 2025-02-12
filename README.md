@@ -11,7 +11,7 @@ This project analyzes customer churn using a dataset containing customer behavio
   - `monthly_charges`: Monthly billing amount
   - `total_charges`: Total amount paid
   - `churn`: (1 = Churned, 0 = Retained)
-  - *(Include other relevant features...)*
+  
 
 ## 🔬 Analysis & Methodology
 ### **1️⃣ Data Preprocessing**
