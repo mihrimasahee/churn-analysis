@@ -29,7 +29,7 @@ This project analyzes customer churn using a dataset containing customer behavio
   - High monthly charges correlate with higher churn.
   - Longer tenure customers are less likely to churn.
 
-### At last using Logistic Regression model, evaluates it using a confusion matrix and accuracy score, and prints the results. It helps in understanding how well the model is classifying the given test data.
+### Finally, using the Logistic Regression model, it evaluates it using a confusion matrix and accuracy score and prints the results. This helps understand how well the model classifies the given test data.
   
 
 ## 🛠️ Technologies Used
